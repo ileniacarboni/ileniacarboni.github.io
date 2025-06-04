@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master's Degree in Artificial Intelligence, University of Bologna (Sep 2022 - Mar 2025)
+* Bachelor's Degree in Computer Engineering, University of Bologna (Sep 2019 - Oct 2022)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - Now: Postgraduate Research Fellow
+  * EEESLab, University of Bologna
+  * Working on embedding Neural Radiance Fields (NeRF) on Microcontroller Units (MCUs)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2024 - Mar 2025: Master Thesis Research Internship
+  * Visiting Research Period of three months at the Nanorobotics Research Group @ IDSIA, Lugano, Switzerland
+  * Thesis: "Federated Neural Radiance Fields on a Swarm of Miniaturized Robots" 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Bachelor Thesis Internship
+  * Carried Remotely in association with the CVLab, University of Bologna
+  * Thesis: "Creazione di un dataset tramite smart glasses per l'addestramento di Neural Radiance Fields"
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
