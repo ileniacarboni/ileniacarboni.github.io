@@ -8,10 +8,10 @@ date: 2024-02-01
 location: "Bologna, Italy"
 ---
 
-Helped students from Camplus College Bononia (Bologna, Italy) for exam preparation for subjects related to Computer Science and Engineering at the Undergraduate Level. 
-
-Organized one-on-one sessions and personalized study materials
+* Provided individual academic support to undergraduate students enrolled in Engineering Degrees, from the Camplus College of Merit.
+* Designed and delivered personalized one-on-one tutoring sessions, focusing on conceptual understanding, applied problem-solving and exam preparation.
+* Developed tailored study materials to supplement official coursework and enhance student performance
 
 ## Subjects Covered for the Academic Year 2023/2024
-* Calculus I (Bachelor's Degree in Electrical Engineering, First Year)
-* Database and Information Systems (Bachelor's Degree in Management Engineering, Third Year)
+* _Calculus I_ (Bachelor's Degree in Electrical Engineering, First Year)
+* _Database and Information Systems_ (Bachelor's Degree in Management Engineering, Third Year)
