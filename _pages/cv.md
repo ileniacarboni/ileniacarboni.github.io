@@ -42,7 +42,7 @@ Skills
 
 * **Programming Languages**:
   * Python, C (fully proficient)
-  * Java, SQL (limited to university projects)
+  * Java, JavaScript, SQL (limited to university projects)
   
 
 <!--Publications

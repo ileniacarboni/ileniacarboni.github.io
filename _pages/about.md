@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Postgraduate AI Research Fellow at the University of Bologna, working on embedding Neural Radiance Fields on nano-UAVs for onboard scene reconstruction and navigation. 
+Postgraduate AI Research Fellow at the University of Bologna, working on embedding Neural Radiance Fields on swarms of nano-UAVs for onboard scene reconstruction and navigation. 
 
 Graduated with honors in 2025 from the Master's Degree in Artificial Intelligence from the same institution, with a Research Thesis in collaboration with the Nanorobotics Research Group (Dalle Molle Institute for Artificial Intelligence, Lugano, Switzerland). 
 
