@@ -20,7 +20,6 @@ Research Experience and Projects
 =====
 * _Postgraduate AI Research Fellow_ @ Alma Mater Studiorum, University of Bologna (05/2025 - now)
   * 12-months research fellowship by the Alma Mater Research Institute for Human-Centered Artificial Intelligence (AlmaAI)
-  * Working on embedding Neural Radiance Fields (NeRFs) on microcontroller units (MCUs)
 
 * _Master Thesis Research Intern_ @ University of Bologna (IT) & SUPSI, IDSIA (Lugano, CH) (09/2024 - 03/2025)
   * Thesis: "Federated Neural Radiance Fields on a Swarm of Miniaturized Robots"
