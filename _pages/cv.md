@@ -11,14 +11,18 @@ redirect_from:
 
 Education
 =====
-* _Master's Degree in Artificial Intelligence_ @ Alma Mater Studiorum, University of Bologna (09/2022 - 03/2025)
+
+* _Master's Degree in Artificial Intelligence_ @ Alma Mater Studiorum, University of Bologna (2022 - 2025)
   * Final Grade: 110 with Honours / 110
-* _Bachelor's Degree in Computer Engineering_ @ Alma Mater Studiorum, University of Bologna  (09/2019 - 10/2022)
+* _Bachelor's Degree in Computer Engineering_ @ Alma Mater Studiorum, University of Bologna  (2019 - 2022)
   * Final Grade: 110 with Honours / 110
 
 Research Experience and Projects
 =====
-* _Postgraduate AI Research Fellow_ @ Alma Mater Studiorum, University of Bologna (05/2025 - now)
+
+* _PhD Student in AI-based Neuromorphic Robotics_ @ Nanorobotics Research Group (IDSIA USI-SUPSI, Lugano, CH) (01/2026 - Present)
+
+* _Postgraduate AI Research Assistant_ @ Alma Mater Studiorum, University of Bologna (05/2025 - 12/2025)
   * 12-months research fellowship by the Alma Mater Research Institute for Human-Centered Artificial Intelligence (AlmaAI)
 
 * _Master Thesis Research Intern_ @ University of Bologna (IT) & SUPSI, IDSIA (Lugano, CH) (09/2024 - 03/2025)
